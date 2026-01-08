@@ -1,7 +1,7 @@
 # Bright Data Web Unlocker Nodejs project
-[![Bright Data Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/)
+[![Bright Data Promo](https://github.com/bright-kr/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/)
 
-[StackBlitz editor ⚡️에서 편집](https://stackblitz.com/~/github.com/luminati-io/bright-data-web-unlocker-nodejs-project?file=index.js)
+[StackBlitz editor ⚡️에서 편집](https://stackblitz.com/~/github.com/bright-kr/bright-data-web-unlocker-nodejs-project?file=index.js)
 
 ## Bright Data Web Unlocker API Example
 
