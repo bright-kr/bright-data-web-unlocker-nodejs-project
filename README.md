@@ -39,10 +39,10 @@ const CONFIG = {
 
 ## How it works?
 
-1. 스크립트가 Bright Data의 Unlocker API エンドポイント로 POST リクエスト를 보냅니다
-2. 認証 토큰과 대상 URL을 포함합니다
+1. 스크립트가 Bright Data의 Unlocker API 엔드포인트로 POST 요청를 보냅니다
+2. 인증 토큰과 대상 URL을 포함합니다
 3. Bright Data의 Web Unlocker가 대상 URL에 액세스합니다
-4. レスポンス가 스크립트로 반환되며 콘솔에 표시됩니다
+4. 응답가 스크립트로 반환되며 콘솔에 표시됩니다
 
 ## Troubleshooting
 
